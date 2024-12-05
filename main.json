@@ -1,5 +1,16 @@
-{
+[{
   "name": "Game 1",
   "imageUrl": "https://i.ibb.co/jJfMmLk/398-3983382-android-game-icon-png-transparent-png.png",
   "link": "https://play.google.com/store/apps/details?id=com.company.gameA"
+},
+{
+  "name": "Game 2",
+  "imageUrl": "https://i.ibb.co/mFMJJd7/d5bee36-4cecedc1-1e14-4167-851c-d6369d44ba75.jpg",
+  "link": "https://play.google.com/"
+},
+{
+  "name": "Game 3",
+  "imageUrl": "https://i.ibb.co/wddW9cs/Game3.png",
+  "link": "https://google.com/"
 }
+]

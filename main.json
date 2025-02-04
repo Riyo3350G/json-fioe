@@ -1,7 +1,7 @@
 [{
   "name": "Game 1",
   "imageUrl": "https://com-amazon-mas-catalog.s3.amazonaws.com/amzn1.devportal.assetupload.05df9192d59c4684802e899eaf1edcf9_adb081c4-dc80-4e7f-99a6-c6885d2fe7ea_fde7cf8d8ac10992491b9191c86dbb51",
-  "link": "https://play.google.com/store/apps/details?id=com.company.gameA",
+  "link": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
   "canShow": true
 },
 {
@@ -13,7 +13,7 @@
 {
   "name": "Game 3",
   "imageUrl": "https://com-amazon-mas-catalog.s3.amazonaws.com/amzn1.devportal.assetupload.21e41ad2202b4c21b1ea69cf15028ea0_07ddf4ff-4080-40db-9400-38500f650d54_782f63b7b3098a105ff63a4c02fc0c11",
-  "link": "https://google.com/",
+  "link": "amzn://apps/android?p=com.PinkPiano.TilesGame",
   "canShow": true
 },
 {

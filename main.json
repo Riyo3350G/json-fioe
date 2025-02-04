@@ -19,13 +19,13 @@
 {
   "name": "piano pop 1",
   "imageUrl": "https://m.media-amazon.com/images/I/71auuNopGRL.png",
-  "link": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
+  "link": "amzn://apps/android?p=com.PinkPiano.TilesGame",
   "canShow": true
 },
 {
   "name": "piano 2",
   "imageUrl": "https://m.media-amazon.com/images/I/71PJsHmdUvL.png",
-  "link": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
+  "link": "amzn://apps/android?p=com.PinkPiano.TilesGame",
   "canShow": true
 },
 {

@@ -1,15 +1,15 @@
 {
   "ads": [
     {
-      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "gameLink": "https://play.google.com/store/apps/details?id=com.example.game1"
     },
     {
-      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "gameLink": "https://play.google.com/store/apps/details?id=com.example.game2"
     },
     {
-      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "gameLink": "https://play.google.com/store/apps/details?id=com.example.game3"
     }
   ]

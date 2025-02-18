@@ -2,15 +2,18 @@
   "ads": [
     {
       "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "gameLink": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage"
+      "gameLink": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
+      "gameId": "game123"
     },
     {
       "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "gameLink": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage"
+      "gameLink": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
+      "gameId": "game2"
     },
     {
       "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "gameLink": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage"
+      "gameLink": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
+      "gameId": "game2"
     }
   ]
 }

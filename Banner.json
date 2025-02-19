@@ -2,15 +2,18 @@
   "ads": [
     {
       "videoUrl": "https://test.reboundize.com/banner3-ezgif.com-gif-to-mp4-converter.mp4",
-      "storeUrl": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage"
+      "storeUrl": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
+      "gameId": "Game123"
     },
     {
       "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "storeUrl": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage"
+      "storeUrl": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
+      "gameId": "game12"
     },
     {
       "videoUrl": "https://test.reboundize.com/banner3-ezgif.com-gif-to-mp4-converter.mp4",
-      "storeUrl": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage"
+      "storeUrl": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
+      "gameId": "game12"
     }
   ]
 }

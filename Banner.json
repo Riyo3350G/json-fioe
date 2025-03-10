@@ -1,7 +1,7 @@
 {
   "ads": [
     {
-      "https://test.reboundize.com/videoads/Banner_preview.webm",
+      "videoUrl": "https://test.reboundize.com/videoads/Banner_preview.webm",
       "storeUrl": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
       "gameId": "Game123"
     },

@@ -1,17 +1,17 @@
 {
   "ads": [
     {
-      "videoUrl": "https://www.w3schools.com/html/vid2.mp4",
+      "videoUrl": "https://test.reboundize.com/videoads/vid2.mp4",
       "gameLink": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
       "gameId": "game12"
     },
     {
-      "videoUrl": "https://www.w3schools.com/html/vid2.mp4",
+      "videoUrl": "https://test.reboundize.com/videoads/vid2.mp4",
       "gameLink": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
       "gameId": "game2"
     },
     {
-      "videoUrl": "https://www.w3schools.com/html/vid2.mp4",
+      "videoUrl": "https://test.reboundize.com/videoads/vid2.mp4",
       "gameLink": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
       "gameId": "game123"
     }

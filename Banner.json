@@ -1,17 +1,17 @@
 {
   "ads": [
     {
-      "videoUrl": "https://test.reboundize.com/videoads/ka.mp4",
+      "videoUrl": "https://test.reboundize.com/videoads/banner-902589_640-1.webp",
       "storeUrl": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
       "gameId": "Game123"
     },
     {
-      "videoUrl": "https://test.reboundize.com/ka.mp4",
+      "videoUrl": "https://test.reboundize.com/banner-902589_640-1.webp",
       "storeUrl": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
       "gameId": "game12"
     },
     {
-      "videoUrl": "https://test.reboundize.com/videoads/ka.mp4",
+      "videoUrl": "https://test.reboundize.com/videoads/banner-902589_640-1.webp",
       "storeUrl": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
       "gameId": "game12"
     }

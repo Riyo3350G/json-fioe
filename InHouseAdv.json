@@ -1,17 +1,17 @@
 {
   "ads": [
     {
-      "videoUrl": "https://test.reboundize.com/banner3-ezgif.com-gif-to-mp4-converter.mp4",
+      "videoUrl": "https://test.reboundize.com/videoads/s.mp4",
       "gameLink": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
       "gameId": "game12"
     },
     {
-      "videoUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+      "videoUrl": "https://test.reboundize.com/videoads/s.mp4",
       "gameLink": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
       "gameId": "game2"
     },
     {
-      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "videoUrl": "https://test.reboundize.com/videoads/s.mp4",
       "gameLink": "amzn://apps/android?p=com.TheSurvivorIsland.BuildYourVillage",
       "gameId": "game123"
     }

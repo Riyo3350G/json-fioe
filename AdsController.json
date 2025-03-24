@@ -1,0 +1,7 @@
+{
+  "fullscreenAdProvider": "LevelPlay",
+  "bannerAdProvider": "InHouseBanner",
+  "inHouseRewardedJsonUrl": "...",
+  "inHouseBannerJsonUrl": "...",
+  "currentGameId": "..."
+}

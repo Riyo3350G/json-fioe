@@ -1,7 +1,7 @@
 {
   "fullscreenAdProvider": "LevelPlay",
   "bannerAdProvider": "InHouseBanner",
-  "inHouseRewardedJsonUrl": "...",
-  "inHouseBannerJsonUrl": "...",
-  "currentGameId": "..."
+  "inHouseRewardedJsonUrl": "https://test.reboundize.com/adsurl/com.piano.app1.portrait.json",
+  "inHouseBannerJsonUrl": "https://test.reboundize.com/adsurl/com.piano.app1.Banner.json",
+  "currentGameId": "Game1"
 }
